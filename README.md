@@ -1,7 +1,7 @@
 # ✋🏻 Pré-requisitos
 
--Node.js
--Yarn
+- Node.js
+- Yarn
 
 ## Start
 
