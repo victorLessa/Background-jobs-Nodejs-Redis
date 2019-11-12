@@ -15,7 +15,7 @@
   yarn dev
 ```
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 - ⚡ Express — A web framework for Node.js
 - 🐮Bull — Premium Queue package for handling distributed jobs
